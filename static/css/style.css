@@ -612,6 +612,9 @@ p.about-text {
     letter-spacing: 2px;
     font-weight: 600;
     text-transform: uppercase;
+    text-align: center;
+    background-color: #FF6700;
+    border-radius: 25px;
 }
 .blog-info h4 span.fa {
     color: #009f4d;
