@@ -1,0 +1,8 @@
+Data_to_consider/
+References/
+TEST_Project/
+.ipynb_checkpoints/
+.vscode/
+__pycache__/
+New Plant Diseases Dataset(Augmented)/
+Docs/
